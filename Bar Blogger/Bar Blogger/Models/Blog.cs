@@ -9,5 +9,6 @@ namespace Bar_Blogger.Models
     {
         public int ID { get; set; }
         public string BarName { get; set; }
+        public string Comment { get; set; }
     }
 }
